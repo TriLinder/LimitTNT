@@ -5,8 +5,9 @@
 
 **How to use:**
 
- 	1. Install the datapack
- 	2. The datapack is now fully working! But you may also like to change the settings.
+1. Install the datapack
+
+2. The datapack is now fully working! But you may also like to change the settings.
 
 
 
