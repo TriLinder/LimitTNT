@@ -21,11 +21,11 @@
 
 ​	`limit2` is a hard limit, when reached, **ALL** TNTs will get killed.
 
-​	**NOTE: You cannot change this value directly, modify the `multiplier` value instead **
+​	**NOTE: You cannot change this value directly, modify the `multiplier` value instead**  
 
 ​	`multiplier` is a multiplier of the hard limit, `limit * multiplier = limit2`
 
-​	**NOTE: If you want to turn off the hard limit completely, change the multiplier value to a high number.**
+​	**TIP: If you want to turn off the hard limit completely, change the multiplier value to a high number**
 
 
 
